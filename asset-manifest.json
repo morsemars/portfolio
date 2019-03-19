@@ -1,11 +1,11 @@
 {
-  "main.js": "/github.io/static/js/main.c75530f0.chunk.js",
-  "main.js.map": "/github.io/static/js/main.c75530f0.chunk.js.map",
-  "runtime~main.js": "/github.io/static/js/runtime~main.50f22872.js",
-  "runtime~main.js.map": "/github.io/static/js/runtime~main.50f22872.js.map",
-  "static/js/2.f213e47f.chunk.js": "/github.io/static/js/2.f213e47f.chunk.js",
-  "static/js/2.f213e47f.chunk.js.map": "/github.io/static/js/2.f213e47f.chunk.js.map",
-  "index.html": "/github.io/index.html",
-  "precache-manifest.c592806659e1dfddd37cc983b6bc0162.js": "/github.io/precache-manifest.c592806659e1dfddd37cc983b6bc0162.js",
-  "service-worker.js": "/github.io/service-worker.js"
+  "main.js": "/github.io/portfolio/static/js/main.d3e41764.chunk.js",
+  "main.js.map": "/github.io/portfolio/static/js/main.d3e41764.chunk.js.map",
+  "runtime~main.js": "/github.io/portfolio/static/js/runtime~main.93ecf5c6.js",
+  "runtime~main.js.map": "/github.io/portfolio/static/js/runtime~main.93ecf5c6.js.map",
+  "static/js/2.f213e47f.chunk.js": "/github.io/portfolio/static/js/2.f213e47f.chunk.js",
+  "static/js/2.f213e47f.chunk.js.map": "/github.io/portfolio/static/js/2.f213e47f.chunk.js.map",
+  "index.html": "/github.io/portfolio/index.html",
+  "precache-manifest.c162545a242b4f68bdeb4e1d9e5df954.js": "/github.io/portfolio/precache-manifest.c162545a242b4f68bdeb4e1d9e5df954.js",
+  "service-worker.js": "/github.io/portfolio/service-worker.js"
 }
