@@ -2,7 +2,7 @@
   "name": "morsemars.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://morsemars/github.io/",
+  "homepage": "https://morsemars.github.io/portfolio/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
